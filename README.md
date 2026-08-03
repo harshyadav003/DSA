@@ -33,14 +33,17 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshyadav003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/harshyadav003/DSA/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshyadav003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/harshyadav003/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshyadav003/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/harshyadav003/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshyadav003/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
