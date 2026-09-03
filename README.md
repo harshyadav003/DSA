@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshyadav003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/harshyadav003/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/harshyadav003/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/harshyadav003/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshyadav003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshyadav003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -148,6 +149,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/harshyadav003/DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -158,4 +160,12 @@
 | ------- |
 | [0050-powx-n](https://github.com/harshyadav003/DSA/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/harshyadav003/DSA/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
