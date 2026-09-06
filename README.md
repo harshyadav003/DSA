@@ -66,6 +66,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/harshyadav003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshyadav003/DSA/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
@@ -168,8 +169,13 @@
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harshyadav003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshyadav003/DSA/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
