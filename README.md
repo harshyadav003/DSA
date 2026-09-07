@@ -94,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshyadav003/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/harshyadav003/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/harshyadav003/DSA/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshyadav003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -182,5 +183,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshyadav003/DSA/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
