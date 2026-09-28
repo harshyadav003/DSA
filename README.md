@@ -68,6 +68,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/harshyadav003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshyadav003/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harshyadav003/DSA/tree/master/0216-combination-sum-iii) |
@@ -174,6 +175,7 @@
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/harshyadav003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshyadav003/DSA/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/harshyadav003/DSA/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/harshyadav003/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 | [0461-hamming-distance](https://github.com/harshyadav003/DSA/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
