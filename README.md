@@ -72,6 +72,7 @@
 | [0040-combination-sum-ii](https://github.com/harshyadav003/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/harshyadav003/DSA/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harshyadav003/DSA/tree/master/0216-combination-sum-iii) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -191,6 +192,7 @@
 | [0029-divide-two-integers](https://github.com/harshyadav003/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/harshyadav003/DSA/tree/master/0137-single-number-ii) |
 | [0461-hamming-distance](https://github.com/harshyadav003/DSA/tree/master/0461-hamming-distance) |
 ## Queue
 |  |
