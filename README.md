@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/harshyadav003/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/harshyadav003/DSA/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshyadav003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshyadav003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -42,6 +43,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshyadav003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/harshyadav003/DSA/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshyadav003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/harshyadav003/DSA/tree/master/0904-fruit-into-baskets) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshyadav003/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Divide and Conquer
 |  |
@@ -189,4 +192,8 @@
 | [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 | [0461-hamming-distance](https://github.com/harshyadav003/DSA/tree/master/0461-hamming-distance) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
