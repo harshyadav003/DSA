@@ -79,6 +79,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/harshyadav003/DSA/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/harshyadav003/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshyadav003/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshyadav003/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/harshyadav003/DSA/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
