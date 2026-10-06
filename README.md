@@ -70,6 +70,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/harshyadav003/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshyadav003/DSA/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/harshyadav003/DSA/tree/master/0137-single-number-ii) |
@@ -161,6 +162,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshyadav003/DSA/tree/master/0860-lemonade-change) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/harshyadav003/DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
