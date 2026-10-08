@@ -78,6 +78,7 @@
 | [0216-combination-sum-iii](https://github.com/harshyadav003/DSA/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/harshyadav003/DSA/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshyadav003/DSA/tree/master/0860-lemonade-change) |
@@ -129,6 +130,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav003/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshyadav003/DSA/tree/master/0860-lemonade-change) |
@@ -172,6 +175,7 @@
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/harshyadav003/DSA/tree/master/0070-climbing-stairs) |
+| [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
