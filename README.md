@@ -12,11 +12,13 @@
 | [0076-minimum-window-substring](https://github.com/harshyadav003/DSA/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshyadav003/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshyadav003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshyadav003/DSA/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshyadav003/DSA/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshyadav003/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -184,6 +187,7 @@
 | [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/harshyadav003/DSA/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -207,6 +211,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Bit Manipulation
 |  |
 | ------- |
