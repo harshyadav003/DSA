@@ -77,6 +77,7 @@
 | [0057-insert-interval](https://github.com/harshyadav003/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/harshyadav003/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/harshyadav003/DSA/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harshyadav003/DSA/tree/master/0216-combination-sum-iii) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/harshyadav003/DSA/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/harshyadav003/DSA/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
