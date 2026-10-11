@@ -31,6 +31,7 @@ public:
             min--;
             max--;
         }
+        //*
         else{
             min--;
             max++;
