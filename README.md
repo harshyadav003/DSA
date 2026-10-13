@@ -96,6 +96,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav003/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshyadav003/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshyadav003/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav003/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav003/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshyadav003/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav003/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0846-hand-of-straights](https://github.com/harshyadav003/DSA/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshyadav003/DSA/tree/master/0860-lemonade-change) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshyadav003/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav003/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
