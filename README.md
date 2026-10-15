@@ -27,6 +27,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0662-maximum-width-of-binary-tree) |
@@ -38,6 +39,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Hash Table
@@ -82,6 +84,7 @@
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/harshyadav003/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/harshyadav003/DSA/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/harshyadav003/DSA/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/harshyadav003/DSA/tree/master/0260-single-number-iii) |
@@ -248,9 +251,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
