@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -37,6 +38,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Hash Table
 |  |
@@ -243,4 +245,12 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/harshyadav003/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/harshyadav003/DSA/tree/master/0455-assign-cookies) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
