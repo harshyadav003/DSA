@@ -26,7 +26,7 @@ public:
             for (int col = 0; col < c; col++) {
                 if (row == 0 || col == 0 || row == r - 1 || col == c - 1) {
                     if (grid[row][col] == 1 && vis[row][col] == 0) {
-                        dfs(row, col, grid, vis);
+                        dfs(row, col, grid, vis);                        
                     }
                 }
             }
@@ -35,7 +35,7 @@ public:
             for (int col = 0; col < c; col++) {
                 if (grid[row][col] == 1 && vis[row][col] == 0) {
                     moves++;
-                    vis[row][col] == 1;
+                    
                 }
             }
         }
