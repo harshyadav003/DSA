@@ -27,6 +27,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/harshyadav003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
@@ -41,6 +42,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/harshyadav003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/harshyadav003/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
@@ -87,6 +89,7 @@
 | [0057-insert-interval](https://github.com/harshyadav003/DSA/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/harshyadav003/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshyadav003/DSA/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/harshyadav003/DSA/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/harshyadav003/DSA/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/harshyadav003/DSA/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
@@ -260,6 +263,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/harshyadav003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
@@ -270,6 +274,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/harshyadav003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/harshyadav003/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshyadav003/DSA/tree/master/0733-flood-fill) |
