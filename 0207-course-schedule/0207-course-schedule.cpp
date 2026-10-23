@@ -6,7 +6,7 @@ public:
 
         for(auto adjnode: prerequisites[node]){
             if(!vis[adjnode]){
-                if(dfs(adjnode, node, prerequisites, vis, pathVis))
+                if(dfs(adjnode, node, prerequisites, vis, pathVis)==true)
             return true;
             }
             else if(pathVis[adjnode]){
