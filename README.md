@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/harshyadav003/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/harshyadav003/DSA/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/harshyadav003/DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/harshyadav003/DSA/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshyadav003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -45,6 +46,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/harshyadav003/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harshyadav003/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshyadav003/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshyadav003/DSA/tree/master/0207-course-schedule) |
@@ -61,6 +63,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshyadav003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshyadav003/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/harshyadav003/DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/harshyadav003/DSA/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshyadav003/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -306,4 +309,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/harshyadav003/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
