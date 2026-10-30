@@ -57,7 +57,9 @@ public:
            int size = q.size();
 
             for(int i=0;i<size;i++){
-                auto  node = q.front();
+                // auto  node = q.front();
+                //OR
+                pair<int,int> node = q.front();
                 q.pop();
 
                 int r = node.first;
