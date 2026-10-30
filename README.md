@@ -57,6 +57,7 @@
 | [0733-flood-fill](https://github.com/harshyadav003/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harshyadav003/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/harshyadav003/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshyadav003/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harshyadav003/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshyadav003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav003/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshyadav003/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -292,6 +294,7 @@
 | [0542-01-matrix](https://github.com/harshyadav003/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/harshyadav003/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/harshyadav003/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
 | ------- |
