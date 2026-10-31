@@ -38,6 +38,7 @@
 | [0733-flood-fill](https://github.com/harshyadav003/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshyadav003/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,12 +124,14 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/harshyadav003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav003/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshyadav003/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshyadav003/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav003/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/harshyadav003/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -179,6 +183,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/harshyadav003/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshyadav003/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
 |  |
@@ -279,6 +284,7 @@
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -295,6 +301,7 @@
 | [0733-flood-fill](https://github.com/harshyadav003/DSA/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshyadav003/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -316,4 +323,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/harshyadav003/DSA/tree/master/0127-word-ladder) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
