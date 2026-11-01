@@ -229,6 +229,7 @@
 | [0435-non-overlapping-intervals](https://github.com/harshyadav003/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/harshyadav003/DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 | [0210-course-schedule-ii](https://github.com/harshyadav003/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -307,6 +309,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/harshyadav003/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshyadav003/DSA/tree/master/0210-course-schedule-ii) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -327,4 +330,9 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
