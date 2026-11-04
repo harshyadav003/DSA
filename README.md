@@ -36,6 +36,7 @@
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshyadav003/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshyadav003/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -56,6 +57,7 @@
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/harshyadav003/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/harshyadav003/DSA/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/harshyadav003/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/harshyadav003/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/harshyadav003/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -186,6 +188,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/harshyadav003/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/harshyadav003/DSA/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/harshyadav003/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
@@ -296,6 +299,7 @@
 | [0207-course-schedule](https://github.com/harshyadav003/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshyadav003/DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/harshyadav003/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/harshyadav003/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/harshyadav003/DSA/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshyadav003/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -334,12 +338,14 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/harshyadav003/DSA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshyadav003/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/harshyadav003/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/harshyadav003/DSA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/harshyadav003/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/harshyadav003/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
