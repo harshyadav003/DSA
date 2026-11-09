@@ -15,6 +15,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/harshyadav003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/harshyadav003/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshyadav003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshyadav003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/harshyadav003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav003/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/harshyadav003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshyadav003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [0347-top-k-frequent-elements](https://github.com/harshyadav003/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshyadav003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/harshyadav003/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshyadav003/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
